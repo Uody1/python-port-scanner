@@ -14,7 +14,7 @@ The goal of this project was to learn how Python can be used in cybersecurity to
 ## Features
 - Scans common TCP ports
 - Identifies open and closed ports
-- Helps demonstrate basic network reconnaissance concepts
+- Helps demonstrate basic network reconnaissance concepts and security assessment techniques.
 
 ## Ports Scanned
 - 21 (FTP)
@@ -37,10 +37,10 @@ Enter target IP:
 127.0.0.1
 
 ## What I Learned
-Basic Python scripting
-How socket connections work
-How port scanning supports network reconnaissance
-Why open ports can increase a system's attack surface
+- Basic Python scripting using the socket library  
+- How TCP connections work in network communication  
+- How port scanning supports network reconnaissance  
+- Why open ports can increase a system’s attack surface  
 
 ## Ethical Use
 This project was developed for learning purposes and tested in a controlled environment.
